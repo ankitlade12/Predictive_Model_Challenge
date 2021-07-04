@@ -1,4 +1,4 @@
-# Video_Popularity_Prediction_Challenge #
+# Predictive_Model_Challenge #
 
 **Aim** To build a predictive model to determine which patients will be readmitted to the hospital within 30 days..
 
